@@ -8,7 +8,7 @@ This is the readme file for the Robot Vision project.
 
 3. Ensure that you have downloaded the correct checkpoints given in the github link above
 
-4. Include path of the video and run your model.
+4. Esnure that the main.py file is included in the Sam2 folder so it can access the smaller sam2 folder containing the models. Include video path in main.py
 
 
 Note: Currently having problems running on Apple M-Series chip. Requires CUDA enabled 
